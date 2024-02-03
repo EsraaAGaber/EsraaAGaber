@@ -19,9 +19,9 @@
 
 ## **My Competitive Programming Profiles**
 
-- ![](https://img.shields.io/badge/Codeforces-1F8ACB?style=plastic&logo=codeforces&logoColor=blue&labelColor=black&color=blue&link=https://codeforces.com/profile/Esraa_A_Gaber)
-- ![](https://img.shields.io/badge/Leetcode-FFA116?style=plastic&logo=leetcode&logoColor=yellow&labelColor=black&color=d9bc00&link=https://leetcode.com/Esraa_A_Gaber/)
-- ![](https://img.shields.io/badge/HackerRank-00EA64?style=plastic&logo=hackerRank&logoColor=green&labelColor=black&color=green&link=https://www.hackerrank.com/profile/55esrasgaber)
+- [![](https://img.shields.io/badge/Codeforces-1F8ACB?style=plastic&logo=codeforces&logoColor=blue&labelColor=black&color=blue)](https://codeforces.com/profile/Esraa_A_Gaber)
+- [![](https://img.shields.io/badge/Leetcode-FFA116?style=plastic&logo=leetcode&logoColor=yellow&labelColor=black&color=d9bc00)](https://leetcode.com/Esraa_A_Gaber/)
+- [![](https://img.shields.io/badge/HackerRank-00EA64?style=plastic&logo=hackerRank&logoColor=green&labelColor=black&color=green)](https://www.hackerrank.com/profile/55esrasgaber)
 
   
  <!--![](https://komarev.com/ghpvc/?username=EsraaAGaber&color=blueviolet)*-->
