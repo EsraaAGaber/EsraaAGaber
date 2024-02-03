@@ -9,4 +9,5 @@
 <br>
 </br>
 
-![counter](https://komarev.com/ghpvc/?EsraaAGaber&color=blueviolet&style=plastic)
+![](https://komarev.com/ghpvc/?EsraaAGaber&color=blueviolet)
+
