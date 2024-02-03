@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Esraa Abdelgaber</h1>
+<h1>Hi 👋, I'm Esraa Abdelgaber <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h1>
 
 
 - 🌱 I’m currently learning **Embedded Systems**
@@ -9,7 +9,7 @@
 
 
   
-## 📝 ***Contact Me...***  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## 📝 ***Contact Me...***  
 
  <!--[![Github](https://img.shields.io/github/followers/EsraaAGaber?label=Follow%20Me&style=social)](https://github.com/EsraaAGaber)
 <br>-->
