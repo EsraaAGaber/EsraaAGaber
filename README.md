@@ -9,5 +9,4 @@
 <br>
 </br>
 
-
-![Visitor Count](https://profile-counter.glitch.me/EsraaAGaber/count.svg)
+![](https://komarev.com/ghpvc/?EsraaAGaber&color=blueviolet&style=plastic)
