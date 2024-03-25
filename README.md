@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Esraa Abdelgaber <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h1>
 
 
-- 🌱 I’m currently learning **Embedded Systems**
+- 🌱 I’m currently studying **Embedded Systems**
   
 - :computer: I’m interested in **programming, problem solving.**
   
